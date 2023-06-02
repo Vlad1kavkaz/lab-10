@@ -1,3 +1,4 @@
+---
 - name: Update packages and prepare VM-2
   hosts: VM-2
   tasks:
